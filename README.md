@@ -12,7 +12,7 @@ This is a simple authentication project implemented using Node.js, Express, and 
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/jahid28/authentication-project.git
+git clone [https://github.com/jahid28/authentication-project.git](https://github.com/CemoAkcadogan/mongodb-authenticaton)
 
 
 2. Navigate to the project directory:
